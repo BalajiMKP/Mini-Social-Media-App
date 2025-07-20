@@ -1,1 +1,0 @@
-# Mini-Social-Media-App
